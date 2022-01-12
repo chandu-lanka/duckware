@@ -13,12 +13,7 @@ import { BioSection, BioYear } from "../components/bio";
 import Section from "../components/section";
 import Paragraph from "../components/paragraph";
 import Head from "next/head";
-import {
-  IoLogoTwitter,
-  IoLogoGithub,
-  IoLogoDiscord,
-  IoLogoYoutube,
-} from "react-icons/io5";
+import { IoLogoTwitter, IoLogoGithub, IoLogoYoutube } from "react-icons/io5";
 
 const BioPage = () => {
   return (

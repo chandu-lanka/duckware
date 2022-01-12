@@ -2,8 +2,6 @@ import { Container, Heading, SimpleGrid, Divider } from "@chakra-ui/react";
 import Head from "next/head";
 import Section from "../components/section";
 import { WorkGridItem } from "../components/grid-item";
-
-import HallowEngineImg from "../public/images/projects/Hallow Engine.png";
 import BananaMan from "../public/images/projects/BananaMan.png";
 import BoxBox from "../public/images/projects/Box Box.png";
 import pyEngine from "../public/images/projects/pyEngine.png";
