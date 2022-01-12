@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Personal Website for duckware and projects adns stuff",
+  "description": "Personal Website for duckware and projects and stuff",
   "scripts": {
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
