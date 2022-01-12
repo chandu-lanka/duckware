@@ -11,10 +11,14 @@ import {
 import Section from "../components/section";
 import Paragraph from "../components/paragraph";
 import { ChevronRightIcon } from "@chakra-ui/icons";
+import Head from "next/head";
 
 const Page = () => {
   return (
     <Container>
+      <Head>
+        <title>Home - DuckWare</title>
+      </Head>
       <Box
         borderRadius="lg"
         bg={useColorModeValue("whiteAlpha.500", "whiteAlpha.200")}
