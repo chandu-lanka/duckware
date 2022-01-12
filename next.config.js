@@ -1,0 +1,3 @@
+module.export = {
+    reactStringMode: true
+}
