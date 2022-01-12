@@ -1,3 +1,4 @@
 module.export = {
-    reactStringMode: true
-}
+  reactStringMode: true,
+  distDir: "build",
+};
